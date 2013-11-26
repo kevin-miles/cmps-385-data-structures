@@ -27,3 +27,7 @@ No.
 Can I use your projects?
 ------------------------
 Yes, but not for schoolwork. Learn it instead!
+
+Are there projects missing?
+---------------------------
+No, there is a gap in how projects were labeled between project 9 and project 11, but they were actually done in order.
